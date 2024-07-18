@@ -1,0 +1,1000 @@
+  142  ls
+  143  cd rootrl
+  144  cd root
+  145  clear
+  146  ls
+  147  cd /home/ubuntu/
+  148  ls
+  149  clear
+  150  ls
+  151  useradd -m jenny
+  152  sudo useradd -m jenny
+  153  ls
+  154  cd /home
+  155  ls
+  156  clear
+  157  ls
+  158  passwd jenny
+  159  sudo passwd jenny
+  160  cd jenny
+  161  sudo cd jenny
+  162  clear
+  163  su jenny
+  164  whoami
+  165  ls
+  166  cdc ubuntu
+  167  cd ubuntu
+  168  ls
+  169  cd ..
+  170  ls
+  171  su
+  172  clear
+  173  sudo su
+  174  whoami
+  175  clear
+  176  sudo jenny
+  177  su jenny
+  178  sudo su root
+  179  clear
+  180  cd /ubuntu
+  181  cd /home
+  182  ls
+  183  cd ubuntu
+  184  ls
+  185  clear
+  186  sudo
+  187  sudo apt-get install docker.io
+  188  sudo apt-get update
+  189  clear
+  190  sudo apt-get install docker.io
+  191  clear
+  192  docker
+  193  clear
+  194  sudo apt ngnix
+  195  sudo apt install ngnix
+  196  ls
+  197  sudo apt install nginx -y
+  198  clesr
+  199  clear
+  200  sudo apt purge docker
+  201  y
+  202  ls
+  203  sudo apt purge docker
+  204  docker
+  205  sudo apt purge docker
+  206  docker
+  207  sudo apt-get purge docker-ce
+  208  docker
+  209  clear
+  210  docker
+  211  clear
+  212  docker --version
+  213  clear
+  214  ls
+  215  su /hokme
+  216  clear
+  217  whoami
+  218  cd home/
+  219  ls
+  220  cd jenny
+  221  cd ubuntu
+  222  whoami
+  223  ls
+  224  clear
+  225  whoami
+  226  cd /home
+  227  ls
+  228  clear
+  229  ls
+  230  pwd
+  231  cat file1.text
+  232  vim file1.text
+  233  ls
+  234  cat file1.text
+  235  cd file1.text
+  236  cat dile
+  237  clear
+  238  cat file1.text
+  239  head file1.text
+  240  head
+  241  head file1.text -n 2
+  242  ls
+  243  cat file1.txt
+  244  tail file1.text 2
+  245  claer
+  246  clear
+  247  cat file1.text
+  248  head file1.text
+  249  head file1.text -n 2
+  250  tail file1.text -n 1
+  251  tail file1.text -n 3
+  252  pwd
+  253  clear
+  254  pwd
+  255  clear
+  256  cat file1.text
+  257  vim file1.text
+  258  cat file1.text
+  259  head file1.text -n 2
+  260  pwad
+  261  pwd
+  262  clear
+  263  cd /home
+  264  who i s
+  265  whoami
+  266  cd..
+  267  cd ..
+  268  whoami
+  269  su jenny
+  270  su root
+  271  sudo su root
+  272  whoami
+  273  clear
+  274  cd /home
+  275  whoami
+  276  pwd
+  277  las
+  278  ls
+  279  jenny
+  280  cd jenny
+  281  sudo jenny
+  282  su jenny
+  283  whoami
+  284  ls
+  285  cd /ubuntu
+  286  sudo root
+  287  sudo su ununtu
+  288  su ubuntu
+  289  sudo su ubuntu
+  290  whoami
+  291  ls
+  292  cd ..
+  293  whoami
+  294  ls
+  295  pwd
+  296  cd /
+  297  whoami
+  298  cd ..
+  299  cd /ubuntu
+  300  cd /home/ubuntu
+  301  whoami
+  302  ls
+  303  rm file2.text
+  304  ls
+  305  touch file2.text
+  306  ls
+  307  touch file{2..3}
+  308  ls
+  309  touch file{2..3}.text
+  310  ls
+  311  mkdir devops
+  312  ls
+  313  clear
+  314  pwd
+  315  whoami
+  316  release -a
+  317  lsd_releas -a
+  318  lsb_release -a
+  319  clear
+  320  sudo useradd -m guddu
+  321  sudo useradd -m munna
+  322  ls
+  323  sudo userass -m kaleen
+  324  sudo useradd -m kaleen
+  325  cat /etc/passwd
+  326  su jenny
+  327  sudo passwd kaleen
+  328  clear
+  329  su kaleen
+  330  vim my-devops-file.txt
+  331  cat my-devops-file
+  332  cat my-devops-file.text
+  333  cat my-devops-file.txt
+  334  clear
+  335  ls -l my-devops-file.txt
+  336  cat /etc/group
+  337  clear
+  338  sudo groupadd tester
+  339  sudo groupass devops
+  340  sudo groupadd devops
+  341  cat /etc/passwd
+  342  cat /etc/group
+  343  clear
+  344  sudo usermod -aG devops kaleen
+  345  cat /etc/group
+  346  sudo usermod -aG devops ubuntu
+  347  cat /etc/group
+  348  sudo usermod -aG tester guddu
+  349  sudo usermod -aG tester munna
+  350  cat /etc/group
+  351  clear
+  352  cat /etc/group
+  353  sudo gpasswd -M kaleen,ubuntu tester
+  354  cat /etc/group
+  355  sudo gpasswd -M Kaleen,ubuntu,munna,jenny tester
+  356  sudo gpasswd -M kaleen,ubuntu,munna,jenny tester
+  357  cat /etc/group
+  358  clear
+  359  ls -l my-devops-file.txt
+  360  chgrp devops my-devops-file.txt
+  361  sudo chgrp devops my-devops-file.txt
+  362  cat /etc/group
+  363  ls -l my-devops-file-txt
+  364  [200~ls -l my-devops-file-txt~
+  365  ls -l my-devops-file.txt
+  366  whoami
+  367  ls
+  368  su ubuntu
+  369  sudo su /ubuntu
+  370  sudo su root
+  371  clear
+  372  cat /etc/group
+  373  clear
+  374  cd downloads
+  375  ls
+  376  ls -l id_ed25519
+  377  clear
+  378  ls
+  379  exit
+  380  ls
+  381  cd satyam
+  382  ls
+  383  exit
+  384  clear
+  385  ls
+  386  whoami
+  387  clear
+  388  ls
+  389  cd .ssh
+  390  ls
+  391  vim authorized_keys
+  392  cat authorized_keys
+  393  ls
+  394  clear
+  395  ls
+  396  ls -
+  397  ls -l
+  398  clear
+  399  ls
+  400  mkdir satyam_scp
+  401  ls
+  402  rm -r satyam_scp
+  403  ls
+  404  touch satya,_scp.txt
+  405  ls
+  406  rm satya,_scp.txt
+  407  ls
+  408  clear
+  409  mkdir satyam
+  410  ls
+  411  cd satyam
+  412  ls
+  413  pwd
+  414  cd ..
+  415  ls
+  416  ssh-keygen
+  417  ls
+  418  clear
+  419  cd .ssh
+  420  ls
+  421  cat authorized keys
+  422  ls
+  423  cat authorized_keys
+  424  cd ..
+  425  ssh-keygen
+  426  ls -a
+  427  cd .ssh
+  428  ls
+  429  clear
+  430  cd ..
+  431  ls
+  432  cd satyam
+  433  pwad
+  434  pwd
+  435  ls
+  436  cd ..
+  437  clear
+  438  ls
+  439  .ssh
+  440  cd .ssh
+  441  ls
+  442  cat id_ed25519
+  443  clear
+  444  ls
+  445  cd ..
+  446  ls
+  447  cd satyam
+  448  ls
+  449  cd ..
+  450  devops
+  451  cd devops
+  452  ls
+  453  touch -B2A.txt
+  454  touch b2a.txt
+  455  ls
+  456  pwd
+  457  clear
+  458  cd ..
+  459  clear
+  460  ls
+  461  clear
+  462  ls
+  463  systemctl status ssh
+  464  clear
+  465  sudo apt docker.io
+  466  sudo apt install dpcker.io
+  467  sudo apt update
+  468  sudo apt-get update
+  469  sudo apt install docker.io
+  470  ls
+  471  clear
+  472  systemctl stop docker
+  473  sudo systemctl stop docker
+  474  systemctl docker status
+  475  stsyemctl status docker
+  476  systemctl status docker
+  477  clear
+  478  sudo systemctl start docker
+  479  systemctl status docker
+  480  clear
+  481  cd .ssh
+  482  ls -l
+  483  ls
+  484  cat authorized_key
+  485  clear
+  486  ls
+  487  vim authorized_keys
+  488  cat authorized_keys
+  489  ls
+  490  clear
+  491  whoami
+  492  clear
+  493  systemctl status docker
+  494  clear
+  495  service docker status
+  496  clear
+  497  mkdir logs
+  498  cd logs/
+  499  ls
+  500  vim app.log
+  501  ls
+  502  ls -l app.log
+  503  grep ERROR app.log
+  504  grep error app.log
+  505  clear
+  506  grep -i error app.log
+  507  clear
+  508  grep -i ERROr app.log
+  509  clear
+  510  ls
+  511  cd ..
+  512  ls
+  513  devops
+  514  cd devops
+  515  ls
+  516  cat b2a.txt
+  517  vim b2a.txt
+  518  cat b2a.txt
+  519  cd ..
+  520  cd logs
+  521  grep devops app.logs
+  522  grep -ir dosto /home/ubuntu
+  523  clear
+  524  cd ..
+  525  grep -ir dosto /home/ubuntu
+  526  clear
+  527  find /home/ubunutu -name ".log"
+  528  find /home/ubuntu -name "*.log"
+  529  find /home/ubuntu -name "*.txt"
+  530  find /home/ubuntu -name ",txt"
+  531  find /home/ubuntu -name ".txt"
+  532  ls
+  533  clear
+  534  find / -name "*.bin"
+  535  clear
+  536  exit
+  537  ls
+  538  clear
+  539  ls
+  540  clear
+  541  find /home/ubuntu/ -name "*.log"
+  542  clear
+  543  cd logs/
+  544  ls
+  545  cat app.log
+  546  clear
+  547  awk '/WARN/' app.log
+  548  clear
+  549  awk '/WRAN/ {print $1,$2}' app.log
+  550  awk '/WARN/ {print $1,$2}' app.log
+  551  clear
+  552  awk '/WRAN/ {print $1,$2,$3,$4,$5}' app.log
+  553  awk '/WARN/ {print $1,$2,$3,$4,$5}' app.log
+  554  clear
+  555  awk '/WRAN/ {print $1,$2,$4,$5}' app.log
+  556  awk '/WARN/ {print $1,$2,$4,$5}' app.log
+  557  awk '/WARN/ {print $1,$2,$3,$5}' app.log
+  558  awk '/WARN/ {print $4,$5}' app.log
+  559  awk '/WARN/ {print $5}' app.log
+  560  awk '/WARN/ {print NR,$5}' app.log
+  561  clear
+  562  awk 'NR>=1 && NR<=10 && /WARN/ {print NR,$1,$2,$5}' app.log
+  563  cat app.log
+  564  clear
+  565  awk '$1>=2015-07-01 && $1<=2015-07-30 && /WARN/ {print NR,$1,$2,$5}' app.log
+  566  awk '$1>="2015-07-01" && $1<="2015-07-30" && /WARN/ {print NR,$1,$2,$5}' app.log
+  567  clear
+  568  awk '$1>="2015-07-01" && $1<="2015-07-30" && /ERROR/ {print NR,$1,$2,$5}' app.log
+  569  awk '$1>="2015-07-01" && $1<="2015-07-30" && /WARN/ {print NR,$5,$7}' app.log
+  570  clear
+  571  awk '$1>="2015-07-01" && $1<="2015-07-30" && /ERROR/ {print NR,$5,$7}' app.log
+  572  awk '$1>="2015-07-01" && $1<="2015-07-30" && /ERROR/ {print NR,$5,$7}' app.log > qa_analysis.log
+  573  ls
+  574  cat qa.analysis.log
+  575  cat qa_analysis.log
+  576  clear
+  577  vim dev.env
+  578  touch prd.env
+  579  sed 's/test@123/satyam@123/g' dev.env
+  580  sed 's/test@123/satyam@123/g' dev.env > prd.env
+  581  ls
+  582  cat ped.env
+  583  cat prd.env
+  584  cat dev.env
+  585  clear
+  586  ls
+  587  cd ..
+  588  clear
+  589  ls
+  590  clear
+  591  df -h
+  592  clean
+  593  clear
+  594  cd logs
+  595  clear
+  596  de -f
+  597  clear
+  598  df -h
+  599  clear
+  600  mkfs -t ext4 /dev/xcdf
+  601  sudo mkfs -t ext4 /dev/xcdf
+  602  sudo mkfs -t ext4 /dev/xvdf
+  603  clear
+  604  cd ..
+  605  clear
+  606  sudo mkfs -t ext4 /dev/xvdf
+  607  lsblk
+  608  sudo mkfs -t ext4 /dev/xvdf
+  609  sudo mkfs -t ext4 /dev/xvdp
+  610  clear
+  611  sudo mkfs -t ext4 /dev/xvdf
+  612  lsblk
+  613  exit
+  614  clear
+  615  whoami
+  616  ls
+  617  ./chatur.sh 1 2 3 4
+  618  cd scripts
+  619  ./chatur.sh 1 2 3 4
+  620  clear
+  621  ls
+  622  clear
+  623  ls -
+  624  ls -a
+  625  ls -l
+  626  cd ./
+  627  ls
+  628  clear
+  629  ls
+  630  clear
+  631  ls
+  632  mv *.txt devops
+  633  ls
+  634  mv *.text devops
+  635  ls
+  636  cd devops
+  637  ls
+  638  clear
+  639  ls
+  640  clear
+  641  cd ..
+  642  ls
+  643  cat ls.pub
+  644  clear
+  645  ls
+  646  rm file2
+  647  ls
+  648  cat ls
+  649  clear
+  650  cd .ssh
+  651  ls
+  652  cat id_ed25519
+  653  cd ..
+  654  clear
+  655  ls
+  656  cd satyam
+  657  ls
+  658  clear
+  659  cd ..
+  660  clear
+  661  ls
+  662  mkdir scripts
+  663  ls
+  664  cd scripts
+  665  ls
+  666  vim hello.sh
+  667  bash hello.sh
+  668  vim chatur.sh
+  669  ls -l chatur.sh
+  670  chmod 600 chatur.sh
+  671  ls -l chatur.sh
+  672  clear
+  673  ls -l chatur.sh
+  674  chmod 700 chatur.sh
+  675  ls
+  676  ./chatur.sh
+  677  vim chatur.sh
+  678  ./chatur.sh
+  679  vim chatur.sh
+  680  ./chatur.sh
+  681  clear
+  682  vim chatur.sh
+  683  ./chatur.sh
+  684  vim chatur.sh
+  685  ./chatur.sh
+  686  vim chatur.sj
+  687  ls
+  688  rm chatur.sj
+  689  ls
+  690  vim chatur.sh
+  691  ./chatur.sh
+  692  clear
+  693  vim hello.sh
+  694  ls
+  695  clear
+  696  cd ..
+  697  ls
+  698  cd scripts/
+  699  ls
+  700  ls -l hello.sh
+  701  chmod 700 hello.sh
+  702  ls -l
+  703  ls
+  704  clear
+  705  ls
+  706  cat chatur.sh
+  707  clear
+  708  vim chatur.sh
+  709  ./chatur.sh
+  710  vim chatur.sh
+  711  ./chatur.sh
+  712  vim chatur.sh
+  713  clear
+  714  vim chatur.sh
+  715  ./chatur 29 30 1 2
+  716  ./chatur.sh 29 30 1 2
+  717  vim chatur.sh
+  718  ./chatur.sh 29 30 1 2
+  719  clear
+  720  ls =a
+  721  ls -l
+  722  ls
+  723  rm -r file3
+  724  clear
+  725  ls
+  726  clear
+  727  ls
+  728  cd scripts
+  729  clear
+  730  ls
+  731  ./chatur.sh
+  732  clear
+  733  ls
+  734  cd scripts
+  735  ls
+  736  clear
+  737  ./chatur.sh
+  738  ./chatur.sh 29 30 1 2
+  739  clear
+  740  vim chatur.sh
+  741  ./chatur 23 45 1 2
+  742  ./chatur.sh 23 45 1 2
+  743  ./chatur.sh 1 2 3 4
+  744  vim chatur.sh
+  745  clear
+  746  ./chatur 1 2 3 4
+  747  ./chatur.sh 1 2 3 4
+  748  vim chatur.sh
+  749  ./chatur.sh 1 2 3 4
+  750  clear
+  751  ./chatur 12 34 1 2
+  752  ./chatur.sh 12 23 1 2 
+  753  clear
+  754  ./chatur 1 2 34 56
+  755  ./chatur.sh 1 2 3 4
+  756  clear
+  757  vim chatur.sh
+  758  ./chatur.sh 1 2 3 4
+  759  clear
+  760  vim chatur.sh
+  761  ./chatur.sh 1 1 1 1
+  762  ./chatur 23 2 1 3
+  763  ./chatur.sh 12 34 1 5
+  764  clear
+  765  ./chatur.sh 1 2 3 4
+  766  vim chatur.sh
+  767  clear
+  768  ./chatur.sh 1
+  769  clear
+  770  ./chatur.sh 1 1 1 1
+  771  rm create_user,sh
+  772  rm -r create_user,sh
+  773  ls
+  774  clear
+  775  vim create._user.sh
+  776  clear
+  777  ls
+  778  rm create._user.sh
+  779  ls
+  780  vim create_user.sh
+  781  ./create_user.sh
+  782  clear
+  783  cat /ets/passwd
+  784  cat /etc/passwd
+  785  clear
+  786  cat /etc/passwd
+  787  clear
+  788  vim create_user.sh
+  789  ./create_user.sh
+  790  cat/etc/passwd
+  791  clear
+  792  ls
+  793  cat/etc/passwd
+  794  cat /etc/passwd
+  795  sudo su Virus
+  796  clear
+  797  su Virus
+  798  clear
+  799  vim create_user.sh
+  800  ./create_user.sh
+  801  cat /etc/passwd
+  802  clear
+  803  clear
+  804  cd scripts/
+  805  ls
+  806  mkdir create_user.sh
+  807  ls
+  808  chmod 700 create_user.sh
+  809  ls
+  810  clear
+  811  ls
+  812  vim create_user.sh
+  813  rm -r create_user.sh
+  814  clear
+  815  ls
+  816  vim create_user.sh
+  817  chmod 700 create_user.sh
+  818  ls -l
+  819  ls
+  820  clear
+  821  ls
+  822  ./create_user.sh
+  823  vim create_user.sh
+  824  vim crearte_user.sh
+  825  ls
+  826  rm crearte_user.sh
+  827  ls
+  828  clear
+  829  vim create_user,sh
+  830  clear
+  831  cd scripts
+  832  ./createuser.sh
+  833  ./create_user.sh
+  834  vim create_user.sh
+  835  ./create_user.sh
+  836  cat /etc/passwd
+  837  clear
+  838  cat create_user.sh
+  839  clear
+  840  mv create_user.sh user_management.sh
+  841  ls
+  842  clear
+  843  ls
+  844  vim user_management.sh
+  845  ./user_management.sh
+  846  cat /etc/passwd
+  847  clear
+  848  ./user_management.sh
+  849  cat /etc/passwd
+  850  clear
+  851  cat user_management.sh
+  852  vim user_management.sh
+  853  clear
+  854  cat chatur.sh
+  855  clear
+  856  ./user_management.sh
+  857  ./user_management.sh c
+  858  cat /etc/passwd
+  859  clear
+  860  ./user_management.sh d
+  861  cat /etc/passwd
+  862  ./user_management.sh d
+  863  cat /etc/passwd
+  864  clear
+  865  ls
+  866  cat user_management.sh
+  867  clear
+  868  vim user_management.sh
+  869  ./user_management.sh cd
+  870  clear
+  871  ls
+  872  clear
+  873  git
+  874  git --version
+  875  clear
+  876  ls -l
+  877  clear
+  878  cd satyam
+  879  is
+  880  ls
+  881  ls-l
+  882  ls -l
+  883  clear
+  884  cd ..
+  885  clear
+  886  git --version
+  887  clear
+  888  ls
+  889  mkdir git-tutorial
+  890  cd git-tutorial
+  891  ls
+  892  clearl;
+  893  clear
+  894  mkdir devops-project-batch-7
+  895  ls
+  896  mkdir devops-practice-project
+  897  ls
+  898  cd devops-project-batch-7
+  899  ls
+  900  clear
+  901  git init
+  902  clear
+  903  ls
+  904  clear
+  905  ls
+  906  ls -a
+  907  cd .git/
+  908  ls
+  909  cd ..
+  910  ls
+  911  clear
+  912  ls -a
+  913  ls -l
+  914  clear
+  915  cd ...
+  916  cd ..
+  917  ls
+  918  cd devops-practice-project
+  919  ls
+  920  ls -a
+  921  clear
+  922  ls -a
+  923  clear
+  924  cd ..
+  925  ls
+  926  cd devops-project-batch-7
+  927  clear
+  928  ls -a
+  929  clear
+  930  touch laila.txt
+  931  ls
+  932  touch majnu.txt
+  933  ls
+  934  clear
+  935  ls -l
+  936  df -h
+  937  clear
+  938  ls
+  939  git status
+  940  cler
+  941  clear
+  942  ls
+  943  git add laila.txt
+  944  git status
+  945  clear
+  946  git majnu.txt
+  947  git add majnu.txt
+  948  git status
+  949  ls
+  950  git rm --cached laila.txt
+  951  git status
+  952  git add laila.txt
+  953  git status
+  954  clear
+  955  ls
+  956  git commit -m "feat: ther are now lived happily"
+  957  git status
+  958  clear
+  959  git status
+  960  git log
+  961  ls
+  962  clear
+  963  git ls
+  964  clar
+  965  clear
+  966  ls
+  967  git log
+  968  rm majnu.txt
+  969  ls
+  970  git status
+  971  git log
+  972  git restore majnu.txt
+  973  ls
+  974  clear
+  975  history
+  976  clear
+  977  history
+  978  clear
+  979  history > all_commands.txt
+  980  ls
+  981  git status
+  982  git add all_commands.txt
+  983  ls
+  984  git status
+  985  clear
+  986  git commit -m "feat: added all commands"
+  987  git status
+  988  clear
+  989  git config --global user.name "1919satyam"
+  990  git config --global user.email "1919satyam@gmail.com"
+  991  vim all_commands.txt
+  992  git status
+  993  git log
+  994  git commit -m "chore: minor changes to command"
+  995  git add all_commands.txt
+  996  git commit -m "chore: minor changes to command"
+  997  git log
+  998  git log  --oneline
+  999  clear
+ 1000  git status
+ 1001  ls
+ 1002  clear
+ 1003  ls
+ 1004  history
+ 1005  clear
+ 1006  ls
+ 1007  cd git_tutorials
+ 1008  cd git_tutorial
+ 1009  cd git-tutorial
+ 1010  ls
+ 1011  cd devops-project-batch-7
+ 1012  ls
+ 1013  git log
+ 1014  git status
+ 1015  clear
+ 1016  cat all_commands.txt
+ 1017  clear
+ 1018  git status
+ 1019  git checkout -b dev
+ 1020  git status
+ 1021  git log --oneline
+ 1022  touch feature-1.txt
+ 1023  vim feature-1.txt
+ 1024  git status
+ 1025  git add featue.txt
+ 1026  git add feature.txt
+ 1027  ls
+ 1028  git feature-1.txt
+ 1029  git add feature-1.txt
+ 1030  git status
+ 1031  git commit -m "feat: added feature 1"
+ 1032  git log
+ 1033  git log --oneline
+ 1034  clear
+ 1035  ls
+ 1036  git switch master
+ 1037  ls
+ 1038  git log --oneline
+ 1039  git switch dev
+ 1040  git log --oneline
+ 1041  git swtich master
+ 1042  git switch master
+ 1043  clear
+ 1044  ls
+ 1045  cd git-tutotial
+ 1046  cd git-tutorial
+ 1047  ls
+ 1048  mkdir my-github-repo
+ 1049  ls
+ 1050  git status
+ 1051  rm my-github-repo
+ 1052  rm -r my-github-repo
+ 1053  ls
+ 1054  clear
+ 1055  ls
+ 1056  git clone https://github.com/1919satyam/my_devops_repo.git
+ 1057  ls
+ 1058  cd my_devops_repo
+ 1059  ls
+ 1060  git status
+ 1061  cd ..
+ 1062  clear
+ 1063  history
+ 1064  clear
+ 1065  cd /git-tutorial/my-github-repo
+ 1066  cd git-tutorial
+ 1067  ls
+ 1068  cd my_devops_repo
+ 1069  git branch
+ 1070  git checkout -b demo-batch-7
+ 1071  clear
+ 1072  git status
+ 1073  ls
+ 1074  git clone https://github.com/LondheShubham153/90DaysOfDevOps.git
+ 1075  ls
+ 1076  rm -r 90DaysOfDevops
+ 1077  rm demo.txt
+ 1078  celar
+ 1079  clear
+ 1080  ls
+ 1081  cd ..
+ 1082  ls
+ 1083  git clone https://github.com/LondheShubham153/90DaysOfDevOps.git
+ 1084  ls
+ 1085  cd 90DaysOdDevops
+ 1086  cd 90DaysOfDevops
+ 1087  cd 90DaysOfDevOps
+ 1088  ls
+ 1089  clear
+ 1090  la
+ 1091  ls
+ 1092  git status
+ 1093  git branch
+ 1094  git checkout -b demo-batch-7
+ 1095  ls
+ 1096  cd 2024
+ 1097  ls
+ 1098  cd day01
+ 1099  ls
+ 1100  cat README.md
+ 1101  clear
+ 1102  ls
+ 1103  vim soultion.txt
+ 1104  ls
+ 1105  ls -a
+ 1106  git add soultion.txt
+ 1107  git status
+ 1108  git commit -m "feat: added soultion for  day 1"
+ 1109  clear
+ 1110  git status
+ 1111  git remote -v
+ 1112  ls
+ 1113  git satus
+ 1114  git status
+ 1115  clear
+ 1116  git remote -v
+ 1117  cd ../..
+ 1118  cd ..
+ 1119  cd ...
+ 1120  cd ..
+ 1121  ls
+ 1122  clear
+ 1123  cd .ssh
+ 1124  ls
+ 1125  cd id_ed25519.pub
+ 1126  cat id_ed25519.pub
+ 1127  cd ..
+ 1128  ls
+ 1129  cd git-tutorial
+ 1130  ls
+ 1131  sudo rm -r my_devops_repo
+ 1132  ls
+ 1133  git status
+ 1134  git clone git@github.com:1919satyam/my_devops_repo.git
+ 1135  ls
+ 1136  cd my_devops_repo
+ 1137  ls
+ 1138  cat demo.txt
+ 1139  git branch
+ 1140  clear
+ 1141  history > all_commands.txt
